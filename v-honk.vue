@@ -1,5 +1,8 @@
 <template>
-  <a href="https://google.com" v-honk:block>Testing</a>
+  <div>
+    <a href="https://google.com" v-honk:block>Testing</a>
+    <p v-honk>This won't go anywhere.</p>
+  </div>
 </template>
 
 <script>
