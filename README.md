@@ -36,7 +36,7 @@ If the target is an anchor tag, v-honk simply honks and lets the user through af
 
 💚 Inspired by the anarchy of [Honkify.js](https://honkify.netlify.com) and [Jason Lengstof](https://lengstorf.com/).
 
-Plans for `v-honk:
-[] Create a global property
-[] Make sure target is an actual link
-[] World dominiation
+Plans for `v-honk`:
+- [] Create a global property
+- [] Make sure target is an actual link
+- [] World dominiation
